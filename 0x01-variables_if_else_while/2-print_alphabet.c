@@ -9,7 +9,7 @@ int main(void)
 	char ravi = 'a';
 
 	for (ravi = 'a'; ravi <= 'z'; ravi++)
-		putchar(ravi)
+		putchar(ravi);
 
 	putchar('\n');
 
