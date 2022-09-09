@@ -7,9 +7,9 @@
 int main(void)
 {
 	char ravi = 'a';
-	char Ravitar = 'A';
+	char ravitar = 'A';
 
-	for (alpha = 'a'; ravi <= 'z'; ravi++)
+	for (ravi = 'a'; ravi <= 'z'; ravi++)
 		putchar(ravi);
 	for (ravitar = 'A'; ravitar <= 'Z'; ravitar++)
 		putchar(ravitar);
